@@ -10,4 +10,11 @@ Create a short working demo on windows 7.
 
 A simple test case to illustrate how Windows Automation API works.
 
+Create Visual C# console project
+![alt tag](https://github.com/whoissqr/fun_win/blob/master/Console_prj.jpg)
+Add UIAutomation to project reference assembly
+![alt tag](https://github.com/whoissqr/fun_win/blob/master/Ref_mgr.jpg)
+Inspect Calculator from Inpsect.exe
+![alt tag](https://github.com/whoissqr/fun_win/blob/master/Inspect.jpg)
+
 Fun!
